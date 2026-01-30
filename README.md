@@ -27,12 +27,12 @@
 
 ```
 CyberRiskFramework/
-├── STEP1_FOUNDATION.md      # CISSP domains + business context
-├── STEP2_ASSESSMENT.md      # Asset/threat/vulnerability matrix
-├── STEP3_MITIGATION.md      # CISSP-aligned risk controls
-├── STEP4_IMPLEMENTATION.md  # 11-week deployment schedule
-├── STEP5_MONITORING.md      # Continuous monitoring plan
-├── STEP6_DOCUMENTATION.md   # Framework delivery package
+├── FOUNDATION.md      # CISSP domains + business context
+├── ASSESSMENT.md      # Asset/threat/vulnerability matrix
+├── MITIGATION.md      # CISSP-aligned risk controls
+├── IMPLEMENTATION.md  # 11-week deployment schedule
+├── MONITORING.md      # Continuous monitoring plan
+├── DOCUMENTATION.md   # Framework delivery package
 └── risk_dashboard.py        # Live risk cockpit
 ```
 
